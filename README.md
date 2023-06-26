@@ -11,7 +11,7 @@ This project includes a simple PHP script for scraping the [Soccer subreddit](ht
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory of the script via the command line.
-3. Run the script with the PHP command-line interface using the command `php script_name.php`, replacing `script_name.php` with the actual script file name.
+3. Run the script with the PHP command-line interface using the command `php phpscrapper.php`.
 
 The script will print the title and link of each post from the Soccer subreddit to the console.
 
